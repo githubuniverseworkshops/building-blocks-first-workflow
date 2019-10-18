@@ -1,0 +1,14 @@
+{
+  "name": "clean-object",
+  "version": "1.0.0",
+  "description": "Remove empty strings and undefined props from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
