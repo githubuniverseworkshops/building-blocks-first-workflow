@@ -1,4 +1,4 @@
-# First Action
+# First Workflow
 
 ## Purpose
 
